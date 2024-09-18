@@ -1,0 +1,12 @@
+drinkID,drinkName,ingredients,method
+2,Caramel Macchiato,"2 shots espresso, 1 pump vanilla syrup, steamed milk, caramel drizzle","Layer the ingredients with espresso on top."
+3,Mocha Frappuccino,"3 pumps mocha syrup, ice, whole milk, whipped cream","Blend all ingredients and top with whipped cream."
+4,Vanilla Latte,"2 shots espresso, 2 pumps vanilla syrup, steamed milk","Add vanilla syrup and pour steamed milk over espresso."
+5,Chai Tea Latte,"2 pumps chai concentrate, steamed milk, cinnamon powder","Mix chai concentrate with steamed milk and sprinkle cinnamon."
+6,Cold Brew,"Cold brew concentrate, ice, water","Pour cold brew concentrate over ice and dilute with water."
+7,Flat White,"2 shots ristretto, steamed milk","Pour steamed milk over ristretto shots."
+8,Americano,"2 shots espresso, hot water","Pour hot water over the espresso shots."
+9,Matcha Latte,"2 scoops matcha powder, steamed milk, ice (if cold)","Whisk matcha powder into steamed milk or shake with ice for cold."
+10,Espresso,"1 shot espresso","Pull the espresso shot."
+11,Strawberry Acai Refresher,"Strawberry acai base, ice, freeze-dried strawberries, water","Shake all ingredients with ice and serve."
+12,Hot Chocolate,"2 pumps mocha syrup, steamed milk, whipped cream","Mix mocha syrup with steamed milk and top with whipped cream."
