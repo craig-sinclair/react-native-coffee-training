@@ -1,3 +1,3 @@
 ## Starbucks Learning App
 
-- React Native mobile application using drink information stored on a Firebase's **Cloud Firestore**
+- React Native mobile application using drink information stored on a cloud database (achieved through Firestore's **Cloud Firestore**)
